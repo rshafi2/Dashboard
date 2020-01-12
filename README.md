@@ -7,7 +7,22 @@ For the last two weeks of my time at The Tech Academy, I worked with my peers in
   
 Below are descriptions of the stories I worked on, along with code snippets and navigation links. I also have some full code files in this repo for the larger functionalities I implemented.
 
-
+{% extends 'BasicApp/BasicApp_base.html' %}
+{% load staticfiles %}
+{% block templatecontent %}
+<section>
+    <div id="footyPic">
+        <img src="{% static 'images/capturing_the_human_heart_travelApp_home.jpg' %}">
+        <span class="footy_center"><strong>Welcome to the Travel App</strong><br />
+            A collection of places to visit for a Hodophile! There's a database to manage
+            countries visited and countries yet to be visited. It also includes an API which describes how dangerous a
+            country is from a travellers perspective, and vacation ideas & popular destinations scraped from
+            the website TripAdvisor. Take a look.</span>
+        <br />
+        <a class="footy_caption" href="https://unsplash.com/@dead____artist" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos"><span>Photo by Capturing the human heart.</span></a>
+    </div>
+</section>
+{% endblock %}
 
 
 
