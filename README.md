@@ -8,7 +8,7 @@ For the last two weeks of my time at The Tech Academy, I worked with my peers in
 Below are descriptions of the stories I worked on, along with code snippets and navigation links. I also have some full code files in this repo for the larger functionalities I implemented.
 
 
-#Travel App Homepage
+## Travel App Homepage
 The following code is for the homepage I built for my Travel App. 
 
 ![TravelApp_homepage_Code](https://user-images.githubusercontent.com/41709286/72227291-c0753880-3568-11ea-9f15-c83d6b542af8.PNG)
