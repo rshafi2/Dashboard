@@ -22,7 +22,7 @@ The following code is for the homepage I built for my Travel App.
 ![TravelApp_modelSchema](https://user-images.githubusercontent.com/41709286/72228090-9116f980-3571-11ea-9900-d1d9bc69901b.PNG)
 
 
-## Travel Index Page (Add Function) 
+## Travel App Index Page (Add Function) 
 
 ![TravelApp_AddFunction](https://user-images.githubusercontent.com/41709286/72289586-6f714d00-3619-11ea-987e-2c4b48f08843.PNG)
 
@@ -30,6 +30,10 @@ The following code is for the homepage I built for my Travel App.
 ![TravelApp_IndexPage](https://user-images.githubusercontent.com/41709286/72289799-da228880-3619-11ea-8619-b88e47ead054.PNG)
 
 
+## Travel App Details Page (Detail Function)
+
+
+![TravelApp_detailsPage](https://user-images.githubusercontent.com/41709286/72290146-92e8c780-361a-11ea-8a35-b6dbb9f9e94f.PNG)
 
 
 
