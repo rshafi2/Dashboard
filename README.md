@@ -25,6 +25,8 @@ With Django, you don’t have to use SQL (unless you want to), instead, you use 
 
 ## Travel App Index Page (Add Function) 
 
+The Index page for the Travel App displayed the information from the database.The index page, was linked from the home page and it displayed the list of trips in the database, with all of the fields for a specific trip displayed with labels/headers. There was a add function to add the trips to the database and got all the items from the database and finally redirected the trips to the template. 
+
 ![TravelApp_AddFunction](https://user-images.githubusercontent.com/41709286/72289586-6f714d00-3619-11ea-987e-2c4b48f08843.PNG)
 
 
