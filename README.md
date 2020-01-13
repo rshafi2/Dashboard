@@ -15,6 +15,10 @@ The following code is for the homepage I built for my Travel App.
 
 ![travelApp_homepage](https://user-images.githubusercontent.com/41709286/72227658-66c33d00-356d-11ea-89c3-e459306b00e9.PNG)
 
+## Travel App Model 
+
+
+![TravelApp_modelSchema](https://user-images.githubusercontent.com/41709286/72228090-9116f980-3571-11ea-9900-d1d9bc69901b.PNG)
 
 
 
