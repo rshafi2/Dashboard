@@ -36,6 +36,9 @@ The following code is for the homepage I built for my Travel App.
 ![TravelApp_detailsPage](https://user-images.githubusercontent.com/41709286/72290146-92e8c780-361a-11ea-8a35-b6dbb9f9e94f.PNG)
 
 
+![TravelApp_detailsPage](https://user-images.githubusercontent.com/41709286/72290424-2b7f4780-361b-11ea-8454-3b86fd98de79.PNG)
+
+
 
 
 
