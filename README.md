@@ -37,7 +37,7 @@ The following code is for the homepage I built for my Travel App.
 
 
 
-![TravelApp_detailsPage](https://user-images.githubusercontent.com/41709286/72290424-2b7f4780-361b-11ea-8454-3b86fd98de79.PNG)
+![TravelApp_details](https://user-images.githubusercontent.com/41709286/72290614-a2b4db80-361b-11ea-9002-49d928c262aa.PNG)
 
 
 
