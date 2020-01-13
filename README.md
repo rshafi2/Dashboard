@@ -13,6 +13,7 @@ The following code is for the homepage I built for my Travel App.
 
 ![TravelApp_homepage_Code](https://user-images.githubusercontent.com/41709286/72227291-c0753880-3568-11ea-9f15-c83d6b542af8.PNG)
 
+![travelApp_homepage](https://user-images.githubusercontent.com/41709286/72227658-66c33d00-356d-11ea-89c3-e459306b00e9.PNG)
 
 
 
