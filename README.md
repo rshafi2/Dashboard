@@ -4,7 +4,7 @@
 
 ## Introduction
 
-For the last two weeks of my time at The Tech Academy, I worked with my peers in a team developing a MVC Web Application. This was a great learning opportunity for fixing bugs, cleaning up code, and adding requested features. We were given the task of creating software designed to help hobbyists keep track of their collections of items, as well as interact with APIs and use Data Scraping to get up to date information on things related to those collections and hobbies. This project was built using Python, Django, SQLite, and HTML/CSS. As this sprint was for only two weeks I was only able to work mostly on the [back end stories](#back-end-stories). Everyone on the team had the opportunity to work on front end and back end stories. Over the two week sprint I also had the opportunity to work on some other project management and team programming [skills](#other-skills-learned) which will be beneficial for any future projects.
+For the last two weeks of my time at The Tech Academy, I worked with my peers in a team developing a MVC Web Application. This was a great learning opportunity for fixing bugs, cleaning up code, and adding requested features. We were given the task of creating software designed to help hobbyists keep track of their collections of items, as well as interact with APIs and use Data Scraping to get up to date information on things related to those collections and hobbies. This project was built using Python, Django, SQLite, and HTML/CSS. this sprint was for only two weeks I was only able to work on front [back end stories](#back-end-stories). Everyone on the team had the opportunity to work on front end and back end stories. Over the two week sprint I also had the opportunity to work on some other project management and team programming [skills](#other-skills-learned) which will be beneficial for any future projects.
   
 Below are descriptions of the stories I worked on, along with code snippets and navigation links. I also have some full code files in this repo for the larger functionalities I implemented.
 
@@ -17,7 +17,15 @@ The following code is for the homepage I built for my Travel App.
 ![travelApp_homepage](https://user-images.githubusercontent.com/41709286/72227658-66c33d00-356d-11ea-89c3-e459306b00e9.PNG)
 
 ## Travel App Model 
+With Django, you don’t have to use SQL (unless you want to), instead, you use a Django model to access the database.The models.py is mapped to the database. When you create a model Django executes SQL to create a corresponding table in the database.
 
+Philosophy of the Model:
+
+it’s the single, definitive source of truth for your data. Contains the essential fields and behaviors of the data you’re storing
+Migrations are entirely derived from the models file and are essentially a history that Django can go through to update your database schema to match the current models 
+
+Activating Models: To include a created app in a project you need to add a reference to its configuration class in the INSTALLED_APPS settings.py.
+The model schema here kept track of
 
 ![TravelApp_modelSchema](https://user-images.githubusercontent.com/41709286/72228090-9116f980-3571-11ea-9900-d1d9bc69901b.PNG)
 
