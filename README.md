@@ -17,15 +17,8 @@ The following code is for the homepage I built for my Travel App.
 ![travelApp_homepage](https://user-images.githubusercontent.com/41709286/72227658-66c33d00-356d-11ea-89c3-e459306b00e9.PNG)
 
 ## Travel App Model 
-With Django, you don’t have to use SQL (unless you want to), instead, you use a Django model to access the database.The models.py is mapped to the database. When you create a model Django executes SQL to create a corresponding table in the database.
+With Django, you don’t have to use SQL (unless you want to), instead, you use a Django Model to access the database. So, for this project we used the Django Model to access the database. The models.py is mapped to the database and when you create a model, Django executes SQL to create a corresponding table in the database. The Django Model contains the essential fields and behaviors of the data we were storing and here in this app it kept track of details related to a trip. 
 
-Philosophy of the Model:
-
-it’s the single, definitive source of truth for your data. Contains the essential fields and behaviors of the data you’re storing
-Migrations are entirely derived from the models file and are essentially a history that Django can go through to update your database schema to match the current models 
-
-Activating Models: To include a created app in a project you need to add a reference to its configuration class in the INSTALLED_APPS settings.py.
-The model schema here kept track of
 
 ![TravelApp_modelSchema](https://user-images.githubusercontent.com/41709286/72228090-9116f980-3571-11ea-9900-d1d9bc69901b.PNG)
 
