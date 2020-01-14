@@ -35,9 +35,9 @@ The Index page for the Travel App displayed the information from the database.Th
 
 ## Travel App Details Page (Detail Function)
 
+The details page displayed the details of any single trip from within the database, as selected by the user. The details page was linked to the index page with a button for each trip. The function created in views.py file locates the single desired instance from the database and sends it to the template. When the details button is clicked in the index page for any of the trip it takes the user to the details page displaying all the details of the specific trip chosen. 
 
 ![TravelApp_detailsPage](https://user-images.githubusercontent.com/41709286/72290146-92e8c780-361a-11ea-8a35-b6dbb9f9e94f.PNG)
-
 
 
 ![TravelApp_details](https://user-images.githubusercontent.com/41709286/72290614-a2b4db80-361b-11ea-9002-49d928c262aa.PNG)
