@@ -43,9 +43,6 @@ The details page displayed the details of any single trip from within the databa
 ![TravelApp_details](https://user-images.githubusercontent.com/41709286/72290614-a2b4db80-361b-11ea-9002-49d928c262aa.PNG)
 
 
-
-*Jump to: [Other Skills](#other-skills-learned), [Page Top](#live-project)*
-
 ## Other Skills Learned
 * Improving project flow by communicating about who needs to check out which files for their current story 
 * Practice with team programming/pair programming when one developer runs into a bug they cannot solve
