@@ -29,6 +29,10 @@ The Index page for the Travel App displayed the information from the database.Th
 
 ![TravelApp_AddFunction](https://user-images.githubusercontent.com/41709286/72289586-6f714d00-3619-11ea-987e-2c4b48f08843.PNG)
 
+![TravelApp_indexTemplate](https://user-images.githubusercontent.com/41709286/72464813-01a55c80-37a4-11ea-915e-a342cbc45ac2.PNG)
+
+![TravelApp_indexTemplate2](https://user-images.githubusercontent.com/41709286/72464820-04a04d00-37a4-11ea-813f-63ff1f801498.PNG)
+
 ![TravelApp_addPage](https://user-images.githubusercontent.com/41709286/72464700-c7d45600-37a3-11ea-9ed5-db7c10af2a16.PNG)
 
 
